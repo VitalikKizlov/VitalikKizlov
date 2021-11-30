@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitalikKizlov
-- 👀 I’m currently working on iOS / macOS / tvOS Apps
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m currently working on iOS / macOS Apps
+- 🌱 I’m currently learning Metal
 - 💭 Let's get to know each other
 - 📫 How to reach me
 
