@@ -1,14 +1,30 @@
-- 👋 Hi, I’m @VitalikKizlov
-- 👀 I’m currently working on iOS / macOS Apps
-- 🌱 I’m currently learning Metal
-- 💭 Let's get to know each other
-- 📫 How to reach me
+# Hey, I'm Vitalii Kizlov 👋
 
-<a title="Linkedin Profile" href="https://www.linkedin.com/in/vitalii-kizlov-286bba151/"><img alt="Linkedin Profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a title="Instagram Profile" href="https://www.instagram.com/vitaliikizlov"><img alt="Instagram Profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a title="Gmail" href="mailto:vitalik2602@gmail.com"><img alt="Mail" src="https://user-images.githubusercontent.com/22445815/117448071-f3ee8a00-af46-11eb-9324-875e5dd7fcf4.png" height="30" width="40"/></a>
+iOS & macOS Developer · Warsaw, Poland
 
-<!---
-VitalikKizlov/VitalikKizlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Crafting native Apple platform experiences — from pixel-perfect SwiftUI interfaces to low-level Metal shaders. I love exploring the full stack of Apple's frameworks.
+
+### What I'm up to
+
+| | |
+|---|---|
+| **Focus** | iOS & macOS app development |
+| **Currently learning** | Metal & GPU programming |
+| **Open to** | Collaboration & conversations |
+
+### Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![AppKit](https://img.shields.io/badge/AppKit-000000?style=flat&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-A2845E?style=flat&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-kizlov-286bba151/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vitaliikizlov)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vitalik2602@gmail.com)
